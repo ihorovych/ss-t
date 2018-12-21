@@ -1,0 +1,13 @@
+{
+  "name": "word-site-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash.differencewith": "^4.5.0",
+    "lodash.uniq": "^4.5.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
